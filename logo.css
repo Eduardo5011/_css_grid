@@ -23,7 +23,7 @@
     grid-area: beats;
 }
 
-/* Group Selecting the 4 grid area classes */
+
 .adidas,.apple, .amazon, .beats{
     justify-self: center;
     align-self: center;
